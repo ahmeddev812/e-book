@@ -246,7 +246,7 @@ This project is intended for educational and portfolio purposes.
 
 ## 👨‍💻 Author
 
-**Ahmed Faisal Amanullah**
+**Ahmed**
 
 - GitHub: https://github.com/ahmeddev812
 - Portfolio: Coming Soon
